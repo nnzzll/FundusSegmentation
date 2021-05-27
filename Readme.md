@@ -15,6 +15,7 @@
 <p style="text-indent:2em">os:windows10</p>
 <p style="text-indent:2em">python:3.6</p>
 <p style="text-indent:2em">cuda:11.0</p>
+
 ## 依赖库安装
 在终端中运行`install.bat`
     
